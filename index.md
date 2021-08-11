@@ -8,7 +8,7 @@ Meetings are usually on Wednesdays at 12:30pm over lunch.
 
 ## 2021-09-01
 
-Presenter: TBA
+Presenter: Stephen Bothwell
 
 ## 2021-09-08
 

@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# NL+ (Natural Language Processing Lunch Seminar)
 
-You can use the [editor on GitHub](https://github.com/ndnlp/nlplus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+NL+ is a weekly event to build community among faculty and students doing research related to NLP and to build ties with NLP researchers at other universities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Roughly once a month, we host outstanding researchers from other universities (faculty and grad students) and industry to present their work.
 
-### Markdown
+Other weeks, a speaker from our own community present a short and informal talk followed by extended Q&A and discussion.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Meetings are usually on Wednesdays at 12:30pm over lunch.
 
-```markdown
-Syntax highlighted code block
+### 2021-09-01
 
-# Header 1
-## Header 2
-### Header 3
+Presenter: TBA
 
-- Bulleted
-- List
+### 2021-09-08
 
-1. Numbered
-2. List
+Presenter: TBA
 
-**Bold** and _Italic_ and `Code` text
+### 2021-09-17 (Friday)
+## Lu Wang (University of Michigan)
 
-[Link](url) and ![Image](src)
-```
+Host: Sakib Haque
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ndnlp/nlplus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Abstract: TBA

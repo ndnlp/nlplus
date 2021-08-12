@@ -1,3 +1,4 @@
+---
 list_title: Calendar
 ---
 NL+ (**N**atural **L**anguage **P**rocessing **Lu**nch **S**eminar) is a weekly event at the University of Notre Dame to build community among faculty and students doing research related to NLP and to build ties with NLP researchers at other universities.

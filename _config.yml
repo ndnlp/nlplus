@@ -2,3 +2,4 @@ theme: minima
 title: Notre Dame NL+
 description: Natural Language Processing Lunch Seminar
 show_excerpts: true
+future: true

@@ -1,0 +1,12 @@
+---
+layout: post
+title: John Lalor
+---
+
+Lunch at 12:30pm, talk at 1pm, in 148 Fitzpatrick
+
+Title: IT'S NOT WHAT YOU SAY, IT'S HOW YOU SAY IT: INVESTIGATING INEQUITABLE GDPR ENFORCEMENT ACROSS EU COUNTRIES
+
+Abstract: The European Union (EU) took a big step towards ensuring digital protections in May 2018, when it enacted the General Data Protection Regulation (GDPR). GDPR is a wide-ranging set of regulations that protect the data privacy rights of EU citizens – broadly, GDPR regulates how companies collect, process, and use EU citizens’ personal information. GDPR’s intent was to harmonize privacy law and enforcement throughout the EU, yet, accumulating evidence of GDPR fines, and explanations for these fines, shows strong variation among EU countries. In this research, we use natural language processing (NLP) techniques and leverage the growing body of GDPR enforcement cases (over 1,200) to examine how the text describing the fine (i.e., the narrative), diverges from the GDPR legal articles it cites. We next examine how national cultural differences relate to the calculated narrative divergence score. In empirical extensions, we investigate how national cultural differences, coupled with the narrative divergence, jointly impact the amount of the fine imposed. Our findings suggest that cultural differences, at the country level, are predictive of the amount of narrative divergence and subsequent fine imposed. Our research has broad implications for businesses as it relates to where they choose to locate their headquarters within the EU.  It also shows that bloc-level legislation may not be effective as a tool for enabling equitable law enforcement.
+
+Bio: John Lalor is an Assistant Professor of IT, Analytics, and Operations at the Mendoza College of Business at the University of Notre Dame. He completed his Ph.D. at the University of Massachusetts Amherst in the College of Information and Computer Science. At UMass he was a member of the Bio-NLP group, working with Dr. Hong Yu. John's research interests are in Machine Learning and Natural Language Processing, specifically model evaluation, quantifying uncertainty, and biomedical informatics.

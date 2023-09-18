@@ -5,6 +5,6 @@ NL+ (**N**atural **L**anguage **P**rocessing **Lu**nch **S**eminar) is a weekly 
 
 Our faculty sponsors are [David Chiang](https://www3.nd.edu/~dchiang), [Meng Jiang](https://meng-jiang.com), [Collin McMillan](https://www3.nd.edu/~cmc), [John Lalor](https://jplalor.github.io), [Toby Li](https://toby.li), [Walter Scheirer](https://wjscheirer.com), and [Tim Weninger](https://www3.nd.edu/~tweninge/). Our amazing student organizers are [Abigail Swenor](https://www.abigailswenor.com), [Chihiro Taguchi](https://ctaguchi.github.io), Kezia Oketch, [Ningzhi Tang](http://www.nztang.com), and [Noah Ziems](https://noahziems.com).
 
-Meetings are usually on Wednesdays at 12:30pm over lunch.
+Meetings are usually on Mondays at 12:30pm over lunch.
 Roughly once a month, we host outstanding researchers from other universities (faculty and grad students) and industry to present their work.
 Other weeks, a speaker from our own community presents a short and informal talk followed by extended Q&A and discussion.

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Aarohi Srivastava
+---
+
+Lunch at 12:30pm, talk at 1pm, in 252 Nieuwland Hall of Science
+
+Title: BERTwich: Extending BERT's Capabilities to Model Dialectal and Noisy Text
+
+Abstract: Real-world NLP applications often deal with nonstandard text (e.g., dialectal, informal, or misspelled text). However, language models like BERT deteriorate in the face of dialect variation or noise. How do we push BERT's modeling capabilities to encompass nonstandard text? Fine-tuning helps, but it is designed for specializing a model to a task and does not seem to bring about the deeper, more pervasive changes needed to adapt a model to nonstandard language. In this paper, we introduce the novel idea of sandwiching BERT's encoder stack between additional encoder layers trained to perform masked language modeling on noisy text. We find that our approach, paired with recent work on including character-level noise in fine-tuning data, can promote zero-shot transfer to dialectal text, as well as reduce the distance in the embedding space between words and their noisy counterparts.
+
+Bio: Aarohi Srivastava is a third-year PhD student in the NLP group, advised by David Chiang. She is particularly interested in language modeling in nonstandard and low-resource settings.
